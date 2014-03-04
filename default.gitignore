@@ -1,0 +1,13 @@
+# system / editor files
+
+Thumbs.db
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.esproj
+*.project
+*.buildpath
+*.sass-cache
+*.settings
+nbproject
+node_modules

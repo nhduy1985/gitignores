@@ -1,0 +1,25 @@
+# system / editor files
+
+Thumbs.db
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.esproj
+*.project
+*.buildpath
+*.sass-cache
+*.settings
+nbproject
+node_modules
+
+#Wordpress ignore
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-content/upgrade/
+readme.html
+license.txt
+sitemap.xml
+
+#Sensitive data
+wp-config.php
